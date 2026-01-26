@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Section13/Project1/.vs/Project1/FileContentIndex
+/Section13/Project1/.vs/Project1/v17/.suo
+/Section13/Project1/.vs/Project1/v17/Browse.VC.db
+/Section13/Project1/.vs/Project1/v17/Browse.VC.db-shm
+/Section13/Project1/.vs/Project1/v17/Browse.VC.db-wal
+/Section13/Project1/.vs/Project1/v17/Browse.VC.opendb
+/Section13/Project1/.vs/Project1/v17/DocumentLayout.backup.json
+/Section13/Project1/.vs/Project1/v17/DocumentLayout.json
+/Section13/Project1/.vs/Project1/v17/ipch/AutoPCH/3e11b2d8780c5d6e
+/Section13/Project1/.vs/Project1/v17/ipch/AutoPCH/3e11b2d8780c5d6e/MAIN.ipch
+/Section13/Project1/.vs/Project1/v17/ipch/AutoPCH/df19ad347567f02f
+/Section13/Project1/.vs/Project1/v17/ipch/AutoPCH/df19ad347567f02f/ACCOUNTS.ipch
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/CL.command.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/Cl.items.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/CL.read.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/CL.write.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/link.command.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/link.read.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/link.secondary.1.tlog
+/Section13/Project1/Project1/x64/Debug/Project1.tlog/link.write.1.tlog
